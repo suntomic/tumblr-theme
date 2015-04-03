@@ -78,7 +78,7 @@ body>header img{
     vertical-align: middle;
     float: left;
     margin: 0 10px 0 -80px;
-    border: 5px solid #0088EE;
+    border: 5px solid #0088EE;b
     background: #151515;
     width: 128px;
     height: 128px;
@@ -244,6 +244,7 @@ body>header>a:hover{}
 }
 .post .content-main blockquote{
     border-left: 2px solid black;
+    border-spacing: 5px;
 }
 
 .post.post-type-chat .content-main,
